@@ -20,5 +20,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           SONARCLOUD_URL: https://squad-3-core.sc-dev.io
-        args: >
-          -Dsonar.verbose=true
+        with:
+          args: >
+            -Dsonar.verbose=true
