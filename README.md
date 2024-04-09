@@ -1,11 +1,6 @@
 [![RealWorld Frontend](https://img.shields.io/badge/realworld-frontend-%23783578.svg)](http://realworld.io)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-----
-##New Maintainers wanted##
-Anyone up for the challenge of maintaining this repo?
-Reach out on twitter @vilsbole
-----
 
 
 
